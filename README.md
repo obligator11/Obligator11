@@ -34,14 +34,18 @@ Hey! I'm a software engineer deeply focused on Computer Vision and mobile intell
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/obligator11"><img src="https://github-readme-stats.vercel.app/api?username=obligator11&show_icons=true&count_private=true&title_color=22c55e&text_color=f97316&icon_color=f97316&bg_color=713f12&hide_border=true&v=1" alt="obligator11's GitHub stats" /></a>
+<a href="https://github.com/obligator11"><img src="https://github-readme-stats.vercel.app/api?username=obligator11&show_icons=true&title_color=22c55e&text_color=f97316&icon_color=f97316&bg_color=713f12&hide_border=true" alt="GitHub Stats" /></a>
 
-<a href="https://github.com/obligator11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=obligator11&stroke=f97316&background=713f12&ring=22c55e&fire=22c55e&currStreakNum=f97316&currStreakLabel=22c55e&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
+<a href="https://github.com/obligator11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=obligator11&stroke=f97316&background=713f12&ring=22c55e&fire=22c55e&currStreakNum=f97316&currStreakLabel=22c55e&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" alt="GitHub Streak" /></a>
 
-<a href="https://github.com/obligator11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obligator11&langs_count=10&title_color=22c55e&text_color=f97316&icon_color=f97316&bg_color=713f12&hide_border=true&locale=en&custom_title=Top%20Languages&v=1" alt="Top Languages" /></a>
+<a href="https://github.com/obligator11"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obligator11&langs_count=5&title_color=22c55e&text_color=f97316&icon_color=f97316&bg_color=713f12&hide_border=true" alt="Top Languages" /></a>
 
 <br><br><br><br><br><br><br>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/obligator11/Vision-Core-Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=obligator11&repo=Vision-Core-Projects&title_color=22c55e&text_color=f97316&icon_color=f97316&bg_color=713f12&hide_border=true&locale=en&v=1" /></a><a href="https://github.com/obligator11/gym-management-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=obligator11&repo=gym-management-system&title_color=22c55e&text_color=f97316&icon_color=f97316&bg_color=713f12&hide_border=true&locale=en&v=1" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div align="center">
+  <a href="https://github.com/obligator11/Vision-Core-Projects"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=obligator11&repo=Vision-Core-Projects&title_color=22c55e&text_color=f97316&icon_color=f97316&bg_color=713f12&hide_border=true" alt="Vision Core Projects" /></a>
+  <a href="https://github.com/obligator11/gym-management-system"><img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=obligator11&repo=gym-management-system&title_color=22c55e&text_color=f97316&icon_color=f97316&bg_color=713f12&hide_border=true" alt="Gym Management System" /></a>
+</div>
+<br /><br />
