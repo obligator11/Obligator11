@@ -26,8 +26,6 @@ Hey! I'm a software engineer deeply focused on Computer Vision and mobile intell
 
 <a href="http://www.github.com/https://github.com/obligator11"><img src="https://github-readme-stats.vercel.app/api?username=https://github.com/obligator11&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=f97316&icon_color=f97316&bg_color=713f12&hide_border=true&show_icons=true" alt="https://github.com/obligator11's GitHub stats" /></a>
 
-<a href="http://www.github.com/https://github.com/obligator11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/obligator11&stroke=f97316&background=713f12&ring=22c55e&fire=22c55e&currStreakNum=f97316&currStreakLabel=22c55e&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
-
 <a href="https://github.com/https://github.com/obligator11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/obligator11&langs_count=10&title_color=22c55e&text_color=f97316&icon_color=f97316&bg_color=713f12&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
