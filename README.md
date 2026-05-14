@@ -1,10 +1,8 @@
-<div align="center">
-  <img src="https://github.com/obligator11.png" width="150" style="border-radius: 50%;" alt="Sayyam Shahbaz Profile Picture" />
-  <h1>Hi 👋 My name is Sayyam Shahbaz</h1>
-  <h3>Software Engineer | Android, AI & ML</h3>
-</div>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sayyam Shahbaz
+=======================================================================================================================================
 
----
+Software Engineer | Android, AI & ML
+------------------------------------
 
 Hey! I'm a software engineer deeply focused on Computer Vision and mobile intelligence. My core stack revolves around Python and Android, but my real passion lies in building robust, interactive CV systems. I leverage MediaPipe, cv2, and applied mathematics to build precise object-tracking models, frequently using Pygame to create real-time interactive environments to visualize and test the data. From intelligent mobile tools to complex automation scripts, I love exploring the limits of on-device ML and hardware optimization.
 
@@ -18,39 +16,32 @@ Hey! I'm a software engineer deeply focused on Computer Vision and mobile intell
 ### Skills
 
 <p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
 </p>
 
-### Featured Repositories
-
-<!-- These badges link directly to your repos and will NEVER show as broken icons -->
-<a href="https://github.com/obligator11/Vision-Core-Projects">
-  <img src="https://img.shields.io/badge/PROJECT-Vision--Core--Projects-blueviolet?style=for-the-badge&logo=github" />
-</a>
-<a href="https://github.com/obligator11/gym-management-system">
-  <img src="https://img.shields.io/badge/PROJECT-Gym--Management--System-orange?style=for-the-badge&logo=github" />
-</a>
-
-### GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obligator11&stroke=f97316&background=713f12&ring=22c55e&fire=22c55e&currStreakNum=f97316&currStreakLabel=22c55e&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="left">
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/MediaPipe-007fba?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+<img src="https://img.shields.io/badge/Pygame-3c73a8?style=for-the-badge&logo=python&logoColor=white" alt="Pygame" />
+</p>
 
 ### Socials
 
-<p align="left"> 
-<a href="https://github.com/obligator11" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
-</a> 
-<a href="https://www.linkedin.com/in/sayyam-shahbaz-05894a194/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</a>
-</p>
+<p align="left"> <a href="https://github.com/obligator11" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/sayyam-shahbaz-05894a194/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="https://github.com/obligator11"><img src="https://github-readme-stats.vercel.app/api?username=obligator11&show_icons=true&count_private=true&title_color=22c55e&text_color=f97316&icon_color=f97316&bg_color=713f12&hide_border=true&v=1" alt="obligator11's GitHub stats" /></a>
+
+<a href="https://github.com/obligator11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=obligator11&stroke=f97316&background=713f12&ring=22c55e&fire=22c55e&currStreakNum=f97316&currStreakLabel=22c55e&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
+
+<a href="https://github.com/obligator11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obligator11&langs_count=10&title_color=22c55e&text_color=f97316&icon_color=f97316&bg_color=713f12&hide_border=true&locale=en&custom_title=Top%20Languages&v=1" alt="Top Languages" /></a>
+
+<br><br><br><br><br><br><br>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/obligator11/Vision-Core-Projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=obligator11&repo=Vision-Core-Projects&title_color=22c55e&text_color=f97316&icon_color=f97316&bg_color=713f12&hide_border=true&locale=en&v=1" /></a><a href="https://github.com/obligator11/gym-management-system" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=obligator11&repo=gym-management-system&title_color=22c55e&text_color=f97316&icon_color=f97316&bg_color=713f12&hide_border=true&locale=en&v=1" /></a></div><br /><br /><br /><br /><br /><br /><br />
