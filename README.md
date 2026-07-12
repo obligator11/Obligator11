@@ -11,8 +11,8 @@ AI Engineer building production-grade Python systems at the intersection of **LL
 ⚡ Fun fact: I run a high-performance RTX 4060 Ti setup to train and serve large language models locally.
 
 ## 📌 Featured Repos
-- 🧠 [**Local-Dual-LLM-RAG-Workspace**](https://github.com/obligator11/REPO-NAME-HERE) — Local dual-model AI coding agent (DeepSeek-R1 + Qwen2.5-Coder) with ChromaDB RAG knowledge base and Streamlit UI
-- 🧾 [**Invoice-AP-Automation-Agent**](https://github.com/obligator11/REPO-NAME-HERE) — Local-first multi-agent invoice/AP pipeline with OCR extraction, PO matching, and human-in-the-loop approval
+- 🧠 [**Local-Dual-LLM-RAG-Workspace**](https://github.com/obligator11/AI_Duo_LLM) — Local dual-model AI coding agent (DeepSeek-R1 + Qwen2.5-Coder) with ChromaDB RAG knowledge base and Streamlit UI
+- 🧾 [**Invoice-AP-Automation-Agent**](https://github.com/obligator11/invoice-ap-agent) — Local-first multi-agent invoice/AP pipeline with OCR extraction, PO matching, and human-in-the-loop approval
 - 🎮 [**Vision-Core-Projects**](https://github.com/obligator11/Vision-Core-Projects) — Real-time CV/AR experiment suite (pose-driven games, gesture control, YOLO-based tools)
 - 🎤 [**InterviewAnalyzer**](https://github.com/obligator11/InterviewAnalyzer) — Multi-modal interview confidence analyzer (MediaPipe Face Mesh + Pose + Whisper)
 - 🚗 [**DriverFatigueSystem**](https://github.com/obligator11/DriverFatigueSystem) — Driver fatigue & attention monitor using MediaPipe Face Mesh (EAR/MAR)
