@@ -17,7 +17,7 @@ AI Engineer building production-grade Python systems at the intersection of **LL
 - 🎤 [**InterviewAnalyzer**](https://github.com/obligator11/InterviewAnalyzer) — Multi-modal interview confidence analyzer (MediaPipe Face Mesh + Pose + Whisper)
 - 🚗 [**DriverFatigueSystem**](https://github.com/obligator11/DriverFatigueSystem) — Driver fatigue & attention monitor using MediaPipe Face Mesh (EAR/MAR)
 - 👥 [**CrowdAI**](https://github.com/obligator11/CrowdAI) — Real-time crowd density & flow analytics (YOLOv8 + DBSCAN clustering)
-- 🏋️ [**gym-management-system**](https://github.com/obligator11/gym-management-system) — AI-powered gym automation & diet plan platform
+- 🏋️ [**gym-management-system**](https://github.com/obligator11/gym-management-system) — Modular PySide6 gym desktop app with RBAC, financial transaction logging, and webcam/biometric hardware integration
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/obligator11/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyam-shahbaz-05894a194/)
