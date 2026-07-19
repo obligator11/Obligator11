@@ -132,7 +132,7 @@ graph TD
 - **Solid Gym Management System** — modular PySide6 desktop app with RBAC, financial transaction logging, and Google Sheets–backed state
 - **Triple Eyes Real Estate & Marketing** — React/TypeScript site with Tailwind CSS and Framer Motion for an Islamabad architectural firm
 
-> 💡 CloudCLI and the Multi-Agent Digital Ops Team aren't public repos yet — once you push them, send me the repo names and I'll add pin cards for those too.
+> 💡 Multi-Agent Digital Ops Team aren't public repos yet 
 
 <br/>
 
