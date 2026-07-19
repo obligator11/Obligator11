@@ -19,7 +19,7 @@
 ## ⚡ About Me
 
 ```yaml
-engineer:
+AI engineer:
   name: "Sayyam Shahbaz"
   location: "Pakistan"
   certifications: ["Microsoft Certified AI Engineer", "IBM Certified AI Engineer"]
@@ -44,7 +44,7 @@ Before this, I spent months building real-time computer vision and AR systems (p
 
 **🎫 Multi-Agent Digital Ops Team**
 IT Helpdesk MVP · v3 architecture
-Redis/RQ concurrency, Prometheus + Grafana observability, 18-step incremental build
+Redis/RQ concurrency, Prometheus + Grafana observability, 
 
 </td>
 <td width="33%" valign="top">
