@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a3e,100:00f5ff&height=180&section=header&text=SAYYAM%20SHAHBAZ&fontSize=42&fontColor=00f5ff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20Architect&descAlignY=58&descColor=b19cd9&animation=fadeIn" width="100%"/>
+# 👋 Hi, I'm Sayyam Shahbaz
 
 <a href="https://github.com/obligator11">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Building+Local-First+Agentic+AI+Systems;Multi-Agent+Pipelines+%7C+Zero+Paid+APIs;Local+LLMs+%2B+RAG+%2B+Human-in-the-Loop;Microsoft+%26+IBM+Certified+AI+Engineer;Ex-CV%2FAR+Engineer+%E2%86%92+Now%3A+Agentic+Ops" alt="Typing SVG" />
@@ -266,23 +266,32 @@ React/TypeScript site with Tailwind CSS and Framer Motion for an Islamabad-based
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=obligator11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=bd00ff&text_color=e0e0e0" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obligator11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=e0e0e0" />
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=obligator11&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=obligator11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=obligator11&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=bd00ff&currStreakLabel=00f5ff" />
+<img src="https://streak-stats.demolab.com/?user=obligator11&theme=dark&hide_border=false" />
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+## ✍️ Random Dev Quote
 
 <div align="center">
 
-<!-- Requires the snake workflow — see setup notes below -->
-<img src="https://raw.githubusercontent.com/obligator11/obligator11/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+
+</div>
+
+<br/>
+
+## 🔝 Top Contributed Repo
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=obligator11&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 </div>
 
@@ -296,7 +305,5 @@ React/TypeScript site with Tailwind CSS and Framer Motion for an Islamabad-based
 [![Instagram](https://img.shields.io/badge/@SayyamAILab-E4405F?style=for-the-badge&logo=instagram&logoColor=00f5ff&labelColor=0d1117)](https://www.instagram.com/obligator11/)
 
 <sub>⚡ Fun fact: I run a local RTX 4060 Ti rig to train and serve LLMs — no cloud APIs, no monthly bills.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:1a1a3e,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
