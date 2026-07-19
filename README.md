@@ -2,13 +2,23 @@
 
 AI Engineer building production-grade Python systems at the intersection of **LLMs, RAG, and Computer Vision**. Microsoft & IBM Certified AI Engineer with hands-on experience shipping hybrid multi-model AI pipelines, real-time CV systems, and cloud-connected automation.
 
-# 💫 About Me:
-🔭 I'm currently working on: **Vision-Core-Projects** — a suite of real-time computer vision & AR experiments (pose estimation, gesture recognition, YOLO11) — alongside AI automation systems like the NOUNFORM diet/workout platform.<br><br>
-👯 I'm looking to collaborate on: Open-source Python automation tools, agentic AI systems, and applied computer vision projects.<br><br>
-🤝 I'm looking for help with: Optimizing local LLM inference (Ollama) and real-time CV pipelines for lower-latency, on-device performance.<br><br>
-🌱 I'm currently learning: Agentic AI architectures, MCP integrations, and advanced spatial mathematics for precise MediaPipe/YOLO tracking.<br><br>
-💬 Ask me about: Python scripting, computer vision (OpenCV/MediaPipe/YOLO), RAG pipelines, and running local AI models.<br><br>
-⚡ Fun fact: I run a high-performance RTX 4060 Ti setup to train and serve large language models locally.
+⚡ About Me
+
+yamlengineer:
+  name: "Sayyam Shahbaz"
+  location: "Pakistan"
+  certifications: ["Microsoft Certified AI Engineer", "IBM Certified AI Engineer"]
+  specialization: ["Software Architecture", "System Design", "Agentic AI Engineering"]
+  currently_building: "Multi-Agent Digital Ops Team — IT Helpdesk MVP"
+  philosophy: "Local-first, zero-paid-API, human-in-the-loop by design"
+  learning: ["Agentic architectures", "MCP integrations", "Applied spatial math for CV"]
+  brand: "@SayyamAILab — content on TikTok / Instagram / LinkedIn / YouTube"
+
+I design and ship multi-agent AI systems that run entirely on local infrastructure — orchestrating models like Qwen2.5-Coder, DeepSeek-R1, Llama 3.1, and Gemma through Ollama and LM Studio, with PostgreSQL, ChromaDB, and Redis handling state, memory, and concurrency. Every system I build follows the same four-layer discipline: Presentation → Application → Domain → Infrastructure.
+
+Before this, I spent months building real-time computer vision and AR systems (pose estimation, gesture control, YOLO-based tracking) — that CV depth now shows up in how I think about latency, threading, and perception pipelines inside agent systems.
+
+<br/>
 
 ## 📌 Featured Repos
 - 🧠 [**Local-Dual-LLM-RAG-Workspace**](https://github.com/obligator11/AI_Duo_LLM) — Local dual-model AI coding agent (DeepSeek-R1 + Qwen2.5-Coder) with ChromaDB RAG knowledge base and Streamlit UI
