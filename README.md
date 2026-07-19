@@ -8,9 +8,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0d1117)](https://www.linkedin.com/in/sayyam-shahbaz-05894a194)
-[![Instagram](https://img.shields.io/badge/@SayyamAILab-E4405F?style=for-the-badge&logo=instagram&logoColor=00f5ff&labelColor=0d1117)](https://www.instagram.com/obligator11/)
-[![Portfolio](https://img.shields.io/badge/Vision--Core--Projects-8A2BE2?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0d1117)](https://github.com/obligator11/Vision-Core-Projects)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyam-shahbaz-05894a194)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/obligator11/)
+[![GitHub](https://img.shields.io/badge/Vision--Core--Projects-%23181717.svg?logo=github&logoColor=white)](https://github.com/obligator11/Vision-Core-Projects)
 
 </div>
 
@@ -90,139 +90,49 @@ graph TD
 
 <br/>
 
-## 📦 Featured Projects
+## 📌 Top Repositories
 
 ### 🤖 Agentic AI & Automation
 
-<details>
-<summary><b>🧾 Invoice / AP Automation Agent</b> — local-first multi-agent finance pipeline</summary>
-<br/>
+<div align="center">
 
-A multi-agent pipeline for invoice processing and accounts-payable automation, entirely local:
+[![Invoice/AP Automation Agent](https://github-readme-stats.shion.dev/api/pin/?username=obligator11&repo=invoice-ap-agent&theme=dark)](https://github.com/obligator11/invoice-ap-agent)
+[![Local Dual-LLM RAG Workspace](https://github-readme-stats.shion.dev/api/pin/?username=obligator11&repo=AI_Duo_LLM&theme=dark)](https://github.com/obligator11/AI_Duo_LLM)
 
-- **Qwen2.5-Coder** — structured data extraction from invoices
-- **DeepSeek R1** — anomaly detection & reasoning
-- **Llama 3.1** — plain-language explanation of flagged issues
-- **Gemma** — routing logic
-- **PostgreSQL + ChromaDB** — structured + semantic storage
-- **Human-in-the-loop gate** — nothing auto-approves without review
+</div>
 
-`Python` `PostgreSQL` `ChromaDB` `Ollama` `LM Studio` `Pydantic`
-
-🔗 [github.com/obligator11/invoice-ap-agent](https://github.com/obligator11/invoice-ap-agent)
-
-</details>
-
-<details>
-<summary><b>🎫 Multi-Agent Digital Ops Team</b> — IT Helpdesk MVP</summary>
-<br/>
-
-A v3 agentic architecture built for concurrent, observable multi-agent operations:
-
-- **Redis/RQ** for task concurrency across agents
-- **Prometheus + Grafana** (Dockerized) for full observability
-- Built via an 18-step incremental build process, IT Helpdesk locked in as the first use case
-- Follows the same four-layer discipline as all other systems
-
-`Python` `Redis` `Docker` `Prometheus` `Grafana` `Streamlit`
-
-</details>
-
-<details>
-<summary><b>💻 CloudCLI</b> — self-hosted agentic coding studio</summary>
-<br/>
-
-A local agentic coding environment that redirects Claude Code–style inference through a self-hosted **Gemma 4 (31B)** model via Ollama, with a React/Node.js web UI on top.
-
-- Custom Modelfile with extended context window
-- PowerShell launcher scripts with environment configuration
-- MCP layer + Node.js backend + React (Vite) frontend + one-click bootstrap launcher
-- Actively tuning VRAM/KV-cache usage for 31B-scale local inference
-
-`Ollama` `Node.js` `React` `Vite` `MCP`
-
-</details>
-
-<details>
-<summary><b>🧠 Local Dual-LLM RAG Workspace</b> — NotebookLM-style local research tool</summary>
-<br/>
-
-A Streamlit RAG application combining **DeepSeek-R1** (reasoning) and **Qwen2.5-Coder** (implementation) via LM Studio, with isolated per-notebook vector vaults in ChromaDB and sliding-window chunking.
-
-`Python` `Streamlit` `ChromaDB` `LM Studio`
-
-🔗 [github.com/obligator11/AI_Duo_LLM](https://github.com/obligator11/AI_Duo_LLM)
-
-</details>
+- **Invoice/AP Automation Agent** — 4-model local pipeline (Qwen2.5-Coder → DeepSeek R1 → Llama 3.1 → Gemma) with PostgreSQL + ChromaDB and a human-in-the-loop approval gate
+- **Local Dual-LLM RAG Workspace** — NotebookLM-style research tool combining DeepSeek-R1 + Qwen2.5-Coder via LM Studio, with per-notebook ChromaDB vaults
 
 ### 👁️ Computer Vision & AR Suite
 
-<details>
-<summary><b>🎮 Vision-Core-Projects</b> — 60+ real-time CV/AR experiments</summary>
-<br/>
+<div align="center">
 
-A suite of single-file, zero-external-asset CV/AR experiments: pose-driven games (MediaPipe Pose), gesture-controlled tools, AR overlays, and full-body tracking games — each with procedural audio and threaded capture pipelines.
+[![Vision-Core-Projects](https://github-readme-stats.shion.dev/api/pin/?username=obligator11&repo=Vision-Core-Projects&theme=dark)](https://github.com/obligator11/Vision-Core-Projects)
+[![CrowdAI](https://github-readme-stats.shion.dev/api/pin/?username=obligator11&repo=CrowdAI&theme=dark)](https://github.com/obligator11/CrowdAI)
 
-`OpenCV` `MediaPipe` `YOLO11` `Pygame`
+[![DriverFatigueSystem](https://github-readme-stats.shion.dev/api/pin/?username=obligator11&repo=DriverFatigueSystem&theme=dark)](https://github.com/obligator11/DriverFatigueSystem)
+[![InterviewAnalyzer](https://github-readme-stats.shion.dev/api/pin/?username=obligator11&repo=InterviewAnalyzer&theme=dark)](https://github.com/obligator11/InterviewAnalyzer)
 
-🔗 [github.com/obligator11/Vision-Core-Projects](https://github.com/obligator11/Vision-Core-Projects)
+</div>
 
-</details>
-
-<details>
-<summary><b>👥 CrowdAI</b> — real-time crowd density & flow analytics</summary>
-
-YOLOv8 + DBSCAN clustering for crowd density and flow analysis.
-
-`YOLOv8` `DBSCAN` `OpenCV`
-
-🔗 [github.com/obligator11/CrowdAI](https://github.com/obligator11/CrowdAI)
-
-</details>
-
-<details>
-<summary><b>🚗 DriverFatigueSystem</b> — attention & fatigue monitor</summary>
-
-MediaPipe Face Mesh–based driver fatigue detection using EAR/MAR metrics.
-
-`MediaPipe` `OpenCV`
-
-🔗 [github.com/obligator11/DriverFatigueSystem](https://github.com/obligator11/DriverFatigueSystem)
-
-</details>
-
-<details>
-<summary><b>🎤 InterviewAnalyzer</b> — multi-modal interview confidence analyzer</summary>
-
-Combines MediaPipe Face Mesh, Pose, and Whisper for multi-modal interview analysis.
-
-`MediaPipe` `Whisper` `OpenCV`
-
-🔗 [github.com/obligator11/InterviewAnalyzer](https://github.com/obligator11/InterviewAnalyzer)
-
-</details>
+- **Vision-Core-Projects** — 60+ real-time CV/AR experiments: pose-driven games, gesture control, AR overlays, all single-file with procedural audio
+- **CrowdAI** — real-time crowd density & flow analytics using YOLOv8 + DBSCAN clustering
+- **DriverFatigueSystem** — MediaPipe Face Mesh–based fatigue/attention monitor using EAR/MAR metrics
+- **InterviewAnalyzer** — multi-modal interview confidence analyzer (MediaPipe Face Mesh + Pose + Whisper)
 
 ### 🏢 Client & Product Work
 
-<details>
-<summary><b>🏋️ Solid Gym Management System</b> — PySide6 desktop app</summary>
+<div align="center">
 
-Modular gym management desktop application with RBAC, financial transaction logging, and webcam/biometric hardware integration. Rewritten from Tkinter to Streamlit with Google Sheets–backed state and automated PDF/email dispatch.
+[![gym-management-system](https://github-readme-stats.shion.dev/api/pin/?username=obligator11&repo=gym-management-system&theme=dark)](https://github.com/obligator11/gym-management-system)
 
-`Python` `Streamlit` `PySide6` `Google Sheets API`
+</div>
 
-🔗 [github.com/obligator11/gym-management-system](https://github.com/obligator11/gym-management-system)
+- **Solid Gym Management System** — modular PySide6 desktop app with RBAC, financial transaction logging, and Google Sheets–backed state
+- **Triple Eyes Real Estate & Marketing** — React/TypeScript site with Tailwind CSS and Framer Motion for an Islamabad architectural firm
 
-</details>
-
-<details>
-<summary><b>🏛️ Triple Eyes Real Estate & Marketing</b> — architectural firm website</summary>
-
-React/TypeScript site with Tailwind CSS and Framer Motion for an Islamabad-based architectural firm.
-
-`React` `TypeScript` `Tailwind CSS` `Framer Motion`
-
-</details>
+> 💡 CloudCLI and the Multi-Agent Digital Ops Team aren't public repos yet — once you push them, send me the repo names and I'll add pin cards for those too.
 
 <br/>
 
@@ -231,31 +141,31 @@ React/TypeScript site with Tailwind CSS and Framer Motion for an Islamabad-based
 <table>
 <tr><td><b>🎨 Presentation</b></td><td>
 
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=00f5ff)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00f5ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=00f5ff)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?logo=typescript&logoColor=white)
 
 </td></tr>
 <tr><td><b>⚙️ Application</b></td><td>
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=bd00ff)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=bd00ff)
-![Pydantic](https://img.shields.io/badge/Pydantic-0d1117?style=flat-square&logo=pydantic&logoColor=bd00ff)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-%23E92063.svg?logo=pydantic&logoColor=white)
 
 </td></tr>
 <tr><td><b>🗄️ Infrastructure</b></td><td>
 
-![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=00f5ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=00f5ff)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=00f5ff)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00f5ff)
+![Ollama](https://img.shields.io/badge/Ollama-%23000000.svg?logo=ollama&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
 
 </td></tr>
 <tr><td><b>👁️ Computer Vision</b></td><td>
 
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=bd00ff)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=bd00ff)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=bd00ff)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white)
 
 </td></tr>
 </table>
@@ -301,8 +211,8 @@ React/TypeScript site with Tailwind CSS and Framer Motion for an Islamabad-based
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0d1117)](https://www.linkedin.com/in/sayyam-shahbaz-05894a194)
-[![Instagram](https://img.shields.io/badge/@SayyamAILab-E4405F?style=for-the-badge&logo=instagram&logoColor=00f5ff&labelColor=0d1117)](https://www.instagram.com/obligator11/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyam-shahbaz-05894a194)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/obligator11/)
 
 <sub>⚡ Fun fact: I run a local RTX 4060 Ti rig to train and serve LLMs — no cloud APIs, no monthly bills.</sub>
 
