@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyam-shahbaz-05894a194)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/obligator11/)
-[![GitHub](https://img.shields.io/badge/Vision--Core--Projects-181717?logo=github&logoColor=white)](https://github.com/obligator11/Vision-Core-Projects)
+
 
 </div>
 
