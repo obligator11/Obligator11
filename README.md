@@ -27,7 +27,7 @@ engineer:
   currently_building: "Multi-Agent Digital Ops Team — IT Helpdesk MVP"
   philosophy: "Local-first, zero-paid-API, human-in-the-loop by design"
   learning: ["Agentic architectures", "MCP integrations", "Applied spatial math for CV"]
-  brand: "@SayyamAILab — content on TikTok / Instagram / LinkedIn / YouTube"
+  brand: "@obligator11 — content on TikTok / Instagram / LinkedIn / YouTube"
 ```
 
 I design and ship **multi-agent AI systems that run entirely on local infrastructure** — orchestrating models like Qwen2.5-Coder, DeepSeek-R1, Llama 3.1, and Gemma through Ollama and LM Studio, with PostgreSQL, ChromaDB, and Redis handling state, memory, and concurrency. Every system I build follows the same four-layer discipline: **Presentation → Application → Domain → Infrastructure.**
