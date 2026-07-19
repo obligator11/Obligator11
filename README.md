@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyam-shahbaz-05894a194)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/obligator11/)
-
+[![GitHub](https://img.shields.io/badge/Vision--Core--Projects-181717?logo=github&logoColor=white)](https://github.com/obligator11/Vision-Core-Projects)
 
 </div>
 
@@ -27,7 +27,7 @@ engineer:
   currently_building: "Multi-Agent Digital Ops Team — IT Helpdesk MVP"
   philosophy: "Local-first, zero-paid-API, human-in-the-loop by design"
   learning: ["Agentic architectures", "MCP integrations", "Applied spatial math for CV"]
-  brand: "@obligator11 — content on TikTok / Instagram / LinkedIn / YouTube"
+  brand: "@SayyamAILab — content on TikTok / Instagram / LinkedIn / YouTube"
 ```
 
 I design and ship **multi-agent AI systems that run entirely on local infrastructure** — orchestrating models like Qwen2.5-Coder, DeepSeek-R1, Llama 3.1, and Gemma through Ollama and LM Studio, with PostgreSQL, ChromaDB, and Redis handling state, memory, and concurrency. Every system I build follows the same four-layer discipline: **Presentation → Application → Domain → Infrastructure.**
@@ -55,8 +55,8 @@ Redis/RQ concurrency, Prometheus + Grafana observability, 18-step incremental bu
 </td>
 <td width="33%" valign="top">
 
-**💻 CloudCLI**
-Local agentic coding studio — redirects Claude Code–style workflows through a self-hosted Gemma 4 (31B) model via Ollama, React/Node.js UI
+**🧠 Local Dual-LLM RAG Workspace**
+NotebookLM-style research tool — DeepSeek-R1 (reasoning) + Qwen2.5-Coder (implementation) via LM Studio, isolated per-notebook ChromaDB vaults
 
 </td>
 </tr>
@@ -132,7 +132,7 @@ graph TD
 - **Solid Gym Management System** — modular PySide6 desktop app with RBAC, financial transaction logging, and Google Sheets–backed state
 - **Triple Eyes Real Estate & Marketing** — React/TypeScript site with Tailwind CSS and Framer Motion for an Islamabad architectural firm
 
-> 💡 Multi-Agent Digital Ops Team aren't public repos yet 
+> 💡 The Multi-Agent Digital Ops Team isn't a public repo yet — once you push it, send me the repo name and I'll add a pin card for it too.
 
 <br/>
 
