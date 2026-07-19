@@ -132,7 +132,7 @@ graph TD
 - **Solid Gym Management System** — modular PySide6 desktop app with RBAC, financial transaction logging, and Google Sheets–backed state
 - **Triple Eyes Real Estate & Marketing** — React/TypeScript site with Tailwind CSS and Framer Motion for an Islamabad architectural firm
 
-> 💡 The Multi-Agent Digital Ops Team isn't a public repo yet — once you push it, send me the repo name and I'll add a pin card for it too.
+> 💡 The Multi-Agent Digital Ops Team isn't a public repo yet.
 
 <br/>
 
