@@ -8,6 +8,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sayyamshahbaz.dev-00F5FF?logo=vercel&logoColor=white)](https://www.sayyamshahbaz.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyam-shahbaz-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/obligator11/)
 [![GitHub](https://img.shields.io/badge/Vision--Core--Projects-181717?logo=github&logoColor=white)](https://github.com/obligator11/Vision-Core-Projects)
@@ -23,6 +24,7 @@ AI engineer:
   name: "Sayyam Shahbaz"
   location: "Abbottabad, Pakistan"
   role: "Founding Developer & Software Engineer, AI & Automation Systems @ NOUNFORM"
+  portfolio: "https://www.sayyamshahbaz.dev/"
   certifications: ["Microsoft Certified AI Engineer", "IBM Certified AI Engineer"]
   specialization: ["Software Architecture", "System Design", "Agentic AI Engineering"]
   currently_building: "AI & automation systems at NOUNFORM + Multi-Agent Digital Ops Team"
@@ -34,6 +36,8 @@ AI engineer:
 I design and ship **multi-agent AI systems that run entirely on local infrastructure** — orchestrating models like Qwen2.5-Coder, DeepSeek-R1, Llama 3.1, and Gemma through Ollama and LM Studio, with PostgreSQL, ChromaDB, and Redis handling state, memory, and concurrency. Every system I build follows the same four-layer discipline: **Presentation → Application → Domain → Infrastructure.**
 
 Before this, I spent months building real-time computer vision and AR systems (pose estimation, gesture control, YOLO-based tracking) — that CV depth now shows up in how I think about latency, threading, and perception pipelines inside agent systems.
+
+📎 **Full case studies, project write-ups, and a proper look at my work live on my portfolio: [sayyamshahbaz.dev](https://www.sayyamshahbaz.dev/)**
 
 <br/>
 
@@ -227,6 +231,7 @@ graph TD
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sayyamshahbaz.dev-00F5FF?logo=vercel&logoColor=white)](https://www.sayyamshahbaz.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyam-shahbaz-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/obligator11/)
 
