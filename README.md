@@ -3,12 +3,12 @@
 # 👋 Hi, I'm Sayyam Shahbaz
 
 <a href="https://github.com/obligator11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Building+Local-First+Agentic+AI+Systems;Multi-Agent+Pipelines+%7C+Zero+Paid+APIs;Local+LLMs+%2B+RAG+%2B+Human-in-the-Loop;Microsoft+%26+IBM+Certified+AI+Engineer;Ex-CV%2FAR+Engineer+%E2%86%92+Now%3A+Agentic+Ops" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Founding+Developer+%40+NOUNFORM;Building+Local-First+Agentic+AI+Systems;Multi-Agent+Pipelines+%7C+Zero+Paid+APIs;Local+LLMs+%2B+RAG+%2B+Human-in-the-Loop;Microsoft+%26+IBM+Certified+AI+Engineer" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyam-shahbaz-05894a194)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyam-shahbaz-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/obligator11/)
 [![GitHub](https://img.shields.io/badge/Vision--Core--Projects-181717?logo=github&logoColor=white)](https://github.com/obligator11/Vision-Core-Projects)
 
@@ -21,10 +21,11 @@
 ```yaml
 AI engineer:
   name: "Sayyam Shahbaz"
-  location: "Pakistan"
+  location: "Abbottabad, Pakistan"
+  role: "Founding Developer & Software Engineer, AI & Automation Systems @ NOUNFORM"
   certifications: ["Microsoft Certified AI Engineer", "IBM Certified AI Engineer"]
   specialization: ["Software Architecture", "System Design", "Agentic AI Engineering"]
-  currently_building: "Multi-Agent Digital Ops Team — IT Helpdesk MVP"
+  currently_building: "AI & automation systems at NOUNFORM + Multi-Agent Digital Ops Team"
   philosophy: "Local-first, zero-paid-API, human-in-the-loop by design"
   learning: ["Agentic architectures", "MCP integrations", "Applied spatial math for CV"]
   brand: "@obligator11 — content on TikTok / Instagram / LinkedIn / YouTube"
@@ -36,6 +37,19 @@ Before this, I spent months building real-time computer vision and AR systems (p
 
 <br/>
 
+## 💼 Experience
+
+**NOUNFORM — Founding Developer & Software Engineer, AI & Automation Systems** · *Feb 2025 – Jun 2026*
+- Architected a modular Python gym-automation desktop platform (CustomTkinter) covering client intake, AI-generated diet plans, and PDF creation, with a hybrid inference engine (local Llama 3.1 + automatic Grok API failover) for uninterrupted plan generation
+- Built a serverless WhatsApp workout-plan bot on Google Apps Script + Meta WhatsApp Business API, generating constraint-based weekly splits from Google Form intake
+- Designed and shipped [nounform.com](https://nounform.com/) and client sites [tripleeyes.pk](https://tripleeyes.pk/) and [studioonearch.com](https://studioonearch.com/) in React/TypeScript
+
+**Solid Gym — Software Engineer** · *Jul 2024 – Sep 2024*
+- Engineered a modular, multithreaded PySide6 desktop app with RBAC, financial transaction logging, and a hardware abstraction layer for webcam/biometric integration
+- Integrated Google Drive API (OAuth 2.0) for automated cloud disaster recovery and built local analytics for daily executive briefings
+
+<br/>
+
 ## 🧠 Currently Architecting
 
 <table>
@@ -44,7 +58,7 @@ Before this, I spent months building real-time computer vision and AR systems (p
 
 **🎫 Multi-Agent Digital Ops Team**
 IT Helpdesk MVP · v3 architecture
-Redis/RQ concurrency, Prometheus + Grafana observability, 
+Redis/RQ concurrency, Prometheus + Grafana observability
 
 </td>
 <td width="33%" valign="top">
@@ -96,11 +110,13 @@ graph TD
 
 <div align="center">
 
+[![Digital Ops Team](https://github-readme-stats.shion.dev/api/pin/?username=obligator11&repo=multi-agent-it-helpdesk&theme=dark)](https://github.com/obligator11/multi-agent-it-helpdesk)
 [![Invoice/AP Automation Agent](https://github-readme-stats.shion.dev/api/pin/?username=obligator11&repo=invoice-ap-agent&theme=dark)](https://github.com/obligator11/invoice-ap-agent)
 [![Local Dual-LLM RAG Workspace](https://github-readme-stats.shion.dev/api/pin/?username=obligator11&repo=AI_Duo_LLM&theme=dark)](https://github.com/obligator11/AI_Duo_LLM)
 
 </div>
 
+- **Digital Ops Team (Multi-Agent IT Helpdesk)** — six-agent local pipeline (Triage → RAG-grounded Resolver → independent Auditor → HITL gate → Dispatcher) across two model backends, with a deterministic HITL gate, full observability stack, and a 15-ticket eval harness that lifted Triage accuracy 42%→50%
 - **Invoice/AP Automation Agent** — 4-model local pipeline (Qwen2.5-Coder → DeepSeek R1 → Llama 3.1 → Gemma) with PostgreSQL + ChromaDB and a human-in-the-loop approval gate
 - **Local Dual-LLM RAG Workspace** — NotebookLM-style research tool combining DeepSeek-R1 + Qwen2.5-Coder via LM Studio, with per-notebook ChromaDB vaults
 
@@ -130,9 +146,7 @@ graph TD
 </div>
 
 - **Solid Gym Management System** — modular PySide6 desktop app with RBAC, financial transaction logging, and Google Sheets–backed state
-- **Triple Eyes Real Estate & Marketing** — React/TypeScript site with Tailwind CSS and Framer Motion for an Islamabad architectural firm
-
-> 💡 The Multi-Agent Digital Ops Team isn't a public repo yet.
+- **NOUNFORM** — company site plus client sites for [Triple Eyes Real Estate & Marketing](https://tripleeyes.pk/) and [Studio One Architecture](https://studioonearch.com/), React/TypeScript
 
 <br/>
 
@@ -149,6 +163,7 @@ graph TD
 <tr><td><b>⚙️ Application</b></td><td>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=node.js&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white)
 
@@ -158,6 +173,7 @@ graph TD
 ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?logo=docker&logoColor=white)
 
 </td></tr>
@@ -169,6 +185,16 @@ graph TD
 
 </td></tr>
 </table>
+
+<br/>
+
+## 🎓 Certifications
+
+![Microsoft](https://img.shields.io/badge/Microsoft-AI%20%26%20ML%20Engineering-00A4EF?logo=microsoft&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-Generative%20AI%20Engineering-052FAD?logo=ibm&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-AI%20Developer%20Professional-052FAD?logo=ibm&logoColor=white)
+![Imperial College London](https://img.shields.io/badge/Imperial%20College%20London-Advanced%20Android%20Dev-003E74)
+![Google](https://img.shields.io/badge/Google-IT%20Support-4285F4?logo=google&logoColor=white)
 
 <br/>
 
@@ -201,7 +227,7 @@ graph TD
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyam-shahbaz-05894a194)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayyam-shahbaz-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/obligator11/)
 
 </div>
