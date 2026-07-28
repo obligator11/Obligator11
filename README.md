@@ -30,7 +30,7 @@ AI engineer:
   currently_building: "AI & automation systems at NOUNFORM + Multi-Agent Digital Ops Team"
   philosophy: "Local-first, zero-paid-API, human-in-the-loop by design"
   learning: ["Agentic architectures", "MCP integrations", "Applied spatial math for CV"]
-  brand: "@obligator11 — content on TikTok / Instagram / LinkedIn / YouTube"
+  brand: "@obligator11 — content on TikTok(obligator111) / Instagram / LinkedIn / YouTube"
 ```
 
 I design and ship **multi-agent AI systems that run entirely on local infrastructure** — orchestrating models like Qwen2.5-Coder, DeepSeek-R1, Llama 3.1, and Gemma through Ollama and LM Studio, with PostgreSQL, ChromaDB, and Redis handling state, memory, and concurrency. Every system I build follows the same four-layer discipline: **Presentation → Application → Domain → Infrastructure.**
@@ -194,11 +194,13 @@ graph TD
 
 ## 🎓 Certifications
 
-![Microsoft](https://img.shields.io/badge/Microsoft-AI%20%26%20ML%20Engineering-00A4EF?logo=microsoft&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-Generative%20AI%20Engineering-052FAD?logo=ibm&logoColor=white)
-![IBM](https://img.shields.io/badge/IBM-AI%20Developer%20Professional-052FAD?logo=ibm&logoColor=white)
-![Imperial College London](https://img.shields.io/badge/Imperial%20College%20London-Advanced%20Android%20Dev-003E74)
-![Google](https://img.shields.io/badge/Google-IT%20Support-4285F4?logo=google&logoColor=white)
+[![Microsoft](https://img.shields.io/badge/Microsoft-AI%20%26%20ML%20Engineering-00A4EF?logo=microsoft&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/MT9VG9Y3SKKD)
+[![IBM](https://img.shields.io/badge/IBM-Generative%20AI%20Engineering-052FAD?logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/IOFWS6KG339U)
+[![IBM](https://img.shields.io/badge/IBM-AI%20Developer%20Professional-052FAD?logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/ZLUBX4D99ZSD)
+[![Imperial College London](https://img.shields.io/badge/Imperial%20College%20London-Advanced%20Android%20Dev-003E74)](https://www.coursera.org/account/accomplishments/specialization/0UJ518ESIS5O)
+[![IBM](https://img.shields.io/badge/IBM-Generative%20AI%20Engineering%20with%20LLMs-052FAD?logo=ibm&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/NRC7VCZ4SW8P)
+[![University of Michigan](https://img.shields.io/badge/University%20of%20Michigan-Python%20for%20Everybody-00274C?logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/P7NWNK2VF0U4)
+[![Google](https://img.shields.io/badge/Google-IT%20Support-4285F4?logo=google&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/WNIKDU9QF4IJ)
 
 <br/>
 
